@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  hello,World!Hello,Java
+  hello,World!Hello
   </body>
 </html>
